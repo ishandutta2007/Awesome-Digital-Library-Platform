@@ -7,7 +7,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Digital-Library-Platform?style=flat-square&color=blue" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Library-Platform?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Library-Platform?style=social" alt="GitHub_Stars"/>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -55,9 +55,9 @@ The global **Digital Library Platform Market** is estimated at **~$8.94 Billion*
 
 ## 🔓 Open-Source Projects
 
-Below is a list of top open-source library systems, institutional repository software, self-hosted ebook servers, and discovery platforms, sorted by GitHub star count. ⭐
+Below is a list of top open-source library systems, institutional repository software, self-hosted ebook servers, and discovery platforms, sorted by GitHub Stars_Count. ⭐
 
-| 💻 Repository | 📝 Description | 🏷️ Category | ⭐ Star Count |
+| 💻 Repository | 📝 Description | 🏷️ Category | ⭐ Stars_Count |
 | :--- | :--- | :--- | :--- |
 | **[Calibre-Web](https://github.com/janeczku/calibre-web)** | Web interface for browsing, reading, and downloading eBooks using a Calibre database. | Self-Hosted Reader | [![Stars](https://img.shields.io/github/stars/janeczku/calibre-web?style=social&color=white)](https://github.com/janeczku/calibre-web/stargazers) |
 | **[Kavita](https://github.com/Kareadita/Kavita)** | Self-hosted digital library and reader for comics, manga, and ebooks with multi-user support. | Self-Hosted Reader | [![Stars](https://img.shields.io/github/stars/Kareadita/Kavita?style=social&color=white)](https://github.com/Kareadita/Kavita/stargazers) |
@@ -89,7 +89,7 @@ Libraries typically deploy a **composable digital library architecture**: 🧩
 
 1. 🍴 Fork this repository.
 2. ✏️ Add or update entries in `README.md` maintaining the table format.
-3. 📌 Include title, official link, star badge (for open source), category, and pricing/revenue info.
+3. 📌 Include title, official link, Stars_Badge (for open source), category, and pricing/revenue info.
 4. 📥 Submit a Pull Request with a short summary.
 
 ---
